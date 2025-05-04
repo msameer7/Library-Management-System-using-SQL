@@ -10,9 +10,6 @@ This project is a simple Library Management System built using SQL. It includes 
 ## 🎯 Project Goals
 Set up the library_db database
 
-![Uploading library_erd.png…]()
-
-
 Create tables for:
 
 Branches
